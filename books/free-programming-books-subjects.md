@@ -603,6 +603,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) - Rob Walling (PDF)
 * [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
+* [How to Use an API](https://offers.hubspot.com/how-to-use-an-api) - HubSpot (Ebook)
 * [Image Processing in C: Analyzing and Enhancing Digital Images](http://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/) - Dwayne Phillips
 * [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *(:card_file_box: archived)*
 * [Introduction to Scientific Programming in C++ and Fortran](https://web.corral.tacc.utexas.edu/CompEdu/pdf/isp/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
@@ -778,6 +779,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
 * [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
+* [The Ultimate Guide for Using ChatGPT at Work](https://offers.hubspot.com/using-chatgpt-at-work) - HubSpot (Ebook)
 
 
 ### Quantum Computing
